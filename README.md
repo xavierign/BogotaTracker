@@ -5,7 +5,7 @@ This project was sponsored by Bloomberg's Data For Good Exchange ([D4GX](https:/
 Bloomberg Associates Municipal Integrity Team worked with the City of Bogotá to implement an online platform that will give city managers and citizens access to synthesized information about local infrastructure projects. 
 The tool also will allow citizens to provide feedback, with the goal of empowering them and bringing transparency to local government.
 
-See the tracker online: [link](http://seguimientociudadanoobras.veeduriadistrital.gov.co:84/demo-home.html)
+See the tracker online: [link](http://www.columbia.edu/~xig2000/reviewedSites/ba_obras/app/demo-home.html)
 
 The project in the media: [link](https://www.bloomberg.com/company/stories/young-data-scientists-help-nonprofits-and-city-governments-harness-their-data/)
 
